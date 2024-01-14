@@ -1,1 +1,2 @@
 ini file jenis teks biasa
+selanjutnya akan dilakukan belajar github dan git secara lebih lanjut
