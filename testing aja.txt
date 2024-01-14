@@ -3,4 +3,4 @@ selanjutnya akan dilakukan belajar github dan git secara lebih lanjut
 .
 .
 .
-contoh teks yang akan dihilangkan (ini nanti akan berubah warna merah ketika dilihat history commitnya)
+(ini nanti akan berubah warna merah ketika dilihat history commitnya)
