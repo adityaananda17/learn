@@ -1,0 +1,7 @@
+branch digunakan ketika ingin dilakukan ekperimen terhadap file, misalkan ingin menambahkan fitur dalam website namun masih ragu
+branch nantinya dapat digabungkan dengan main/ master branch maupun dihapus dan tidak jadi dipakai
+x
+x
+x
+x
+x
